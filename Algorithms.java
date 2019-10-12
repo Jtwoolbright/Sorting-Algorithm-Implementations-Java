@@ -1,4 +1,7 @@
-
+// 
+//    Coded By: Josh Woolbright
+//        Date: 10/3/2019
+//
 import java.util.Random;
 
 public class Algorithms 
